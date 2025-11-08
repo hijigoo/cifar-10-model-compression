@@ -294,7 +294,3 @@ pip install --upgrade -r requirements.txt
 
 5. **ResNet**
    - He et al., "Deep Residual Learning for Image Recognition" (CVPR 2016)
-
-## 📄 라이선스
-
-본 프로젝트는 GEV6152 Model Compression 과목의 교육 목적으로 작성되었습니다.
