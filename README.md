@@ -295,26 +295,6 @@ pip install --upgrade -r requirements.txt
 5. **ResNet**
    - He et al., "Deep Residual Learning for Image Recognition" (CVPR 2016)
 
-##  라이선스
+## 📄 라이선스
 
 본 프로젝트는 GEV6152 Model Compression 과목의 교육 목적으로 작성되었습니다.
-
-## 🎯 제출 파일
-
-### 필수 제출물
-1. **코드**: 전체 project/ 폴더
-2. **보고서**: REPORT_KR.md (또는 PDF 변환)
-3. **결과**: experiments/results/ 내의 모든 파일
-
-### 체크리스트
-- [x] Dense baseline 구현
-- [x] 3가지 pruning 방법 구현
-- [x] 자동화된 실험 파이프라인 (run.sh)
-- [x] Tradeoff curve 생성
-- [x] 효율성 비교 표 생성
-- [x] 6페이지 보고서 작성
-- [x] 완전한 재현 가능성 확보
-
----
-
-질문이나 문제가 있으면 과목 담당자에게 문의하세요.
