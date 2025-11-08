@@ -242,24 +242,7 @@ info = get_model_info(model, device='cuda', verbose=True)
 # 반환값: params, sparsity, size, latency
 ```
 
-## 📝 보고서 자료
-
-프로젝트는 보고서 작성에 필요한 모든 자료를 생성합니다:
-
-### 그림
-- `tradeoff_curve.png`: 메인 결과 그래프
-- `accuracy_vs_params.png`: 효율성 분석
-- `method_comparison.png`: 다중 메트릭 비교
-
-### 표
-- `efficiency_table.md`: 보고서용 (Markdown)
-- `efficiency_table.tex`: LaTeX 보고서용
-- `efficiency_table.csv`: 추가 분석용
-
-### 데이터
-- `all_results.json`: 완전한 실험 데이터
-
-## 🐛 문제 해결
+##  문제 해결
 
 ### CUDA 메모리 부족
 ```bash
