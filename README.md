@@ -1,10 +1,7 @@
 # CIFAR-10 ResNet18 모델 압축 프로젝트
 
 **과목**: GEV6152 Model Compression  
-**프로젝트**: 중간 프로젝트 - Pruning을 통한 CIFAR-10 모델 압축  
-**학번**: 2024451017  
-**이름**: 김기철  
-**제출일**: 2025년 11월 13일
+**프로젝트**: 중간 프로젝트 - Pruning을 통한 CIFAR-10 모델 압축
 
 ## 📋 프로젝트 개요
 
@@ -298,14 +295,7 @@ pip install --upgrade -r requirements.txt
 5. **ResNet**
    - He et al., "Deep Residual Learning for Image Recognition" (CVPR 2016)
 
-## 👥 작성자
-
-**이름**: 김기철  
-**학번**: 2024451017  
-**과목**: GEV6152 Model Compression  
-**날짜**: 2025년 11월
-
-## 📄 라이선스
+##  라이선스
 
 본 프로젝트는 GEV6152 Model Compression 과목의 교육 목적으로 작성되었습니다.
 
